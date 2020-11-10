@@ -1,5 +1,4 @@
-# R.D
-R.D.
+
 #EXTM3U
 
 #EXTINF:-1 tvg-chno=¨2¨,Teleantillas
